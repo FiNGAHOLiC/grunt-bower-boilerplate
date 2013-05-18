@@ -1,0 +1,5 @@
+.DS_Store
+node_modules
+*.zip
+production
+development/assets/js/vendor/**/

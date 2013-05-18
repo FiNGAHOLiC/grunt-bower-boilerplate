@@ -1,0 +1,21 @@
+{
+  "name": "Grunt-Bower-Boilerplate",
+  "description": "Grunt Bower Boilerplate",
+  "version": "1.0.0",
+  "author": "FiNGAHOLiC",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-copy": "~0.4.0",
+    "grunt-contrib-compress": "~0.4.0",
+    "grunt-contrib-connect": "~0.1.2",
+    "grunt-contrib-imagemin": "~0.1.2",
+    "grunt-contrib-concat": "~0.1.2",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-sass": "~0.2.2",
+    "grunt-contrib-cssmin": "~0.6.0",
+    "grunt-regarde": "~0.1.1",
+    "matchdep": "~0.1.2"
+  }
+}
